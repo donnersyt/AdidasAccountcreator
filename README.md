@@ -9,6 +9,8 @@ After this, use `cd AdidasAccountcreator` to navigate to the folder.
 
 To run, enter `python3 main.py`
 
+### config.cfg:
+
 * Region -
  * Set this to your region, either GB or US.
 
